@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "603ff7b0698ba72bdcd656db"
+  },
+  "topTitulo": "Sua vitrine de compras virtual!!",
+  "topTextoBtn": "Orçamento",
+  "serTitulo": "Nossos Orçamentos",
+  "serSubtitulo": "Morbi id viverra risus. Integer facilisis, felis et maximus cursus, nunc lorem euismod leo, vel aliquam libero nunc sed velit",
+  "serUmIcone": "desktop",
+  "serDoisIcone": "laptop-code",
+  "serTresIcone": "network-wired",
+  "serUmTitulo": "Serviço 1",
+  "serDoisTitulo": "Serviço 2",
+  "serTresTitulo": "Serviço 3",
+  "serDescUm": "Mauris semper est nisi, vel porta mauris eleifend sit amet. Integer eu erat risus.Praesent lobortis erat ac aliquam bibendum.",
+  "serDescDois": "Mauris semper est nisi, vel porta mauris eleifend sit amet. Integer eu erat risus.Praesent lobortis erat ac aliquam bibendum.",
+  "serDescTres": "Mauris semper est nisi, vel porta mauris eleifend sit amet. Integer eu erat risus.Praesent lobortis erat ac aliquam bibendum.",
+  "createdAt": {
+    "$date": "2021-03-03T20:55:12.417Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-03T20:55:12.417Z"
+  },
+  "__v": 0
+}]
